@@ -4,5 +4,4 @@
 
 bash python sales_analysis.py
 📷 Output Preview ✔️ Console: Sales summary & total revenue 📊 Plot: Revenue by product (bar chart)
-
 Feel free to modify the data or queries and make it your own! Made with ❤️ using Python + SQLite
